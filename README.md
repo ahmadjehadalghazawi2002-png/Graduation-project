@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # fit_kitchen_demo
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Graduation-project
+>>>>>>> 17df9abc7883e181f6abff58f0de0c765565efae
